@@ -1,0 +1,12 @@
+[
+    {
+        "customer_name": "Ohad Vaknin",
+        "address": "Gnessin 4",
+        "distance": 5.6
+    },
+    {
+        "customer_name": "John Smith",
+        "address": "Dolev 14",
+        "distance": 8.2
+    }
+]
